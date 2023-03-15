@@ -1,7 +1,5 @@
-import React from "react";
-import './../styles/App.css';
-import "./styles.css";
 import React, { useState } from "react";
+import './../styles/App.css';
 import ChildComponent from "./ChildComponent";
 
 function App() {
